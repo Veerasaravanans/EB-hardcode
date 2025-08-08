@@ -1,0 +1,611 @@
+2025-08-06 09:08:16,021 - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-08-06 09:08:16,021 - INFO - Launcher initialized for Windows
+2025-08-06 09:08:16,022 - INFO - Starting launch sequence for: Settings
+2025-08-06 09:08:16,022 - INFO - Attempt 1/3
+2025-08-06 09:08:16,417 - INFO - Screenshot saved: ./screenshots/initial_Settings_0.png
+2025-08-06 09:08:16,418 - INFO - Searching for app with aliases: ['system preferences', 'preferences', 'settings']
+2025-08-06 09:08:16,430 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:16,627 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:17,796 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:17,798 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:17,990 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:18,944 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:18,947 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:19,149 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:20,310 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:20,378 - INFO - Settings not found on screen, opening search...
+2025-08-06 09:08:21,708 - INFO - Opened system search for Windows
+2025-08-06 09:08:23,905 - INFO - Screenshot saved: ./screenshots/search_Settings_0.png
+2025-08-06 09:08:25,217 - INFO - Typed: Settings
+2025-08-06 09:08:27,440 - INFO - Screenshot saved: ./screenshots/results_Settings_0.png
+2025-08-06 09:08:27,441 - INFO - Searching for app with aliases: ['system preferences', 'preferences', 'settings']
+2025-08-06 09:08:27,451 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:27,837 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:29,084 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:29,087 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:29,501 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:30,917 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:30,920 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:31,317 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:32,760 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:32,826 - INFO - Pressing Enter to launch first search result
+2025-08-06 09:08:38,157 - INFO - Starting launch sequence for: Calculator
+2025-08-06 09:08:38,158 - INFO - Attempt 1/3
+2025-08-06 09:08:39,078 - INFO - Screenshot saved: ./screenshots/initial_Calculator_0.png
+2025-08-06 09:08:39,081 - INFO - Searching for app with aliases: ['calculator', 'calc']
+2025-08-06 09:08:39,093 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:39,378 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:40,739 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:40,743 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:41,078 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:42,314 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:42,388 - INFO - Calculator not found on screen, opening search...
+2025-08-06 09:08:43,697 - INFO - Opened system search for Windows
+2025-08-06 09:08:46,718 - INFO - Screenshot saved: ./screenshots/search_Calculator_0.png
+2025-08-06 09:08:48,181 - INFO - Typed: Calculator
+2025-08-06 09:08:50,777 - INFO - Screenshot saved: ./screenshots/results_Calculator_0.png
+2025-08-06 09:08:50,779 - INFO - Searching for app with aliases: ['calculator', 'calc']
+2025-08-06 09:08:50,791 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:51,361 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:53,101 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:53,104 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:53,649 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:55,203 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:08:55,278 - INFO - Pressing Enter to launch first search result
+2025-08-06 09:09:00,620 - INFO - Starting launch sequence for: Notepad
+2025-08-06 09:09:00,621 - INFO - Attempt 1/3
+2025-08-06 09:09:01,284 - INFO - Screenshot saved: ./screenshots/initial_Notepad_0.png
+2025-08-06 09:09:01,287 - INFO - Searching for app with aliases: ['text editor', 'notepad', 'textedit']
+2025-08-06 09:09:01,308 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:01,577 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:03,023 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:03,026 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:03,320 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:04,691 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:04,695 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:05,010 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:06,325 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:06,385 - INFO - Notepad not found on screen, opening search...
+2025-08-06 09:09:07,708 - INFO - Opened system search for Windows
+2025-08-06 09:09:10,802 - INFO - Screenshot saved: ./screenshots/search_Notepad_0.png
+2025-08-06 09:09:12,040 - INFO - Typed: Notepad
+2025-08-06 09:09:14,821 - INFO - Screenshot saved: ./screenshots/results_Notepad_0.png
+2025-08-06 09:09:14,823 - INFO - Searching for app with aliases: ['text editor', 'notepad', 'textedit']
+2025-08-06 09:09:14,835 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:15,422 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:16,912 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:16,916 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:17,551 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:19,117 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:19,120 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:19,792 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:21,293 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-06 09:09:21,352 - INFO - Pressing Enter to launch first search result
+2025-08-06 09:09:26,673 - INFO - Temporary files cleaned up
+2025-08-07 05:42:03,226 - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-08-07 05:42:03,226 - INFO - Launcher initialized for Windows
+2025-08-07 05:42:03,227 - INFO - Starting launch sequence for: Settings
+2025-08-07 05:42:03,227 - INFO - Attempt 1/3
+2025-08-07 05:42:03,579 - INFO - Screenshot saved: ./screenshots/initial_Settings_0.png
+2025-08-07 05:42:03,580 - INFO - Searching for app with aliases: ['system preferences', 'preferences', 'settings']
+2025-08-07 05:42:03,595 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:03,824 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:05,070 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:05,187 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:05,426 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:06,480 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:06,482 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:06,686 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:08,111 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:08,178 - INFO - Settings not found on screen, opening search...
+2025-08-07 05:42:09,484 - INFO - Opened system search for Windows
+2025-08-07 05:42:12,010 - INFO - Screenshot saved: ./screenshots/search_Settings_0.png
+2025-08-07 05:42:13,332 - INFO - Typed: Settings
+2025-08-07 05:42:15,605 - INFO - Screenshot saved: ./screenshots/results_Settings_0.png
+2025-08-07 05:42:15,606 - INFO - Searching for app with aliases: ['system preferences', 'preferences', 'settings']
+2025-08-07 05:42:15,617 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:16,028 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:17,238 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:17,241 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:17,671 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:18,950 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:18,956 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:19,465 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:20,920 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:20,979 - INFO - Pressing Enter to launch first search result
+2025-08-07 05:42:26,300 - INFO - Starting launch sequence for: Calculator
+2025-08-07 05:42:26,301 - INFO - Attempt 1/3
+2025-08-07 05:42:27,325 - INFO - Screenshot saved: ./screenshots/initial_Calculator_0.png
+2025-08-07 05:42:27,326 - INFO - Searching for app with aliases: ['calculator', 'calc']
+2025-08-07 05:42:27,350 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:27,937 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:29,494 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:29,498 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:29,849 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:31,271 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:31,348 - INFO - Calculator not found on screen, opening search...
+2025-08-07 05:42:32,671 - INFO - Opened system search for Windows
+2025-08-07 05:42:35,146 - INFO - Screenshot saved: ./screenshots/search_Calculator_0.png
+2025-08-07 05:42:36,587 - INFO - Typed: Calculator
+2025-08-07 05:42:38,966 - INFO - Screenshot saved: ./screenshots/results_Calculator_0.png
+2025-08-07 05:42:38,967 - INFO - Searching for app with aliases: ['calculator', 'calc']
+2025-08-07 05:42:38,980 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:39,486 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:40,855 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:40,861 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:41,472 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:42,948 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:42,999 - INFO - Pressing Enter to launch first search result
+2025-08-07 05:42:48,329 - INFO - Starting launch sequence for: Notepad
+2025-08-07 05:42:48,329 - INFO - Attempt 1/3
+2025-08-07 05:42:48,839 - INFO - Screenshot saved: ./screenshots/initial_Notepad_0.png
+2025-08-07 05:42:48,840 - INFO - Searching for app with aliases: ['notepad', 'text editor', 'textedit']
+2025-08-07 05:42:48,859 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:49,185 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:50,660 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:50,662 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:50,966 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:52,002 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:52,004 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:52,248 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:53,667 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:42:53,720 - INFO - Notepad not found on screen, opening search...
+2025-08-07 05:42:55,037 - INFO - Opened system search for Windows
+2025-08-07 05:42:57,835 - INFO - Screenshot saved: ./screenshots/search_Notepad_0.png
+2025-08-07 05:42:59,090 - INFO - Typed: Notepad
+2025-08-07 05:43:01,461 - INFO - Screenshot saved: ./screenshots/results_Notepad_0.png
+2025-08-07 05:43:01,463 - INFO - Searching for app with aliases: ['notepad', 'text editor', 'textedit']
+2025-08-07 05:43:01,480 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:43:01,998 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:43:03,334 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:43:03,337 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:43:03,928 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:43:05,657 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:43:05,660 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:43:06,097 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:43:07,612 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 05:43:07,675 - INFO - Pressing Enter to launch first search result
+2025-08-07 05:43:12,998 - INFO - Temporary files cleaned up
+2025-08-07 06:11:04,508 - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-08-07 06:11:04,510 - INFO - Launcher initialized for Windows
+2025-08-07 06:11:19,332 - INFO - Starting launch sequence for: chrome
+2025-08-07 06:11:19,333 - INFO - Attempt 1/3
+2025-08-07 06:11:19,701 - INFO - Screenshot saved: ./screenshots/initial_chrome_0.png
+2025-08-07 06:11:19,701 - INFO - Searching for app with aliases: ['chrome', 'google chrome']
+2025-08-07 06:11:19,711 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:19,897 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:20,957 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:20,959 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:21,144 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:22,153 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:22,208 - INFO - chrome not found on screen, opening search...
+2025-08-07 06:11:23,526 - INFO - Opened system search for Windows
+2025-08-07 06:11:25,638 - INFO - Screenshot saved: ./screenshots/search_chrome_0.png
+2025-08-07 06:11:26,836 - INFO - Typed: chrome
+2025-08-07 06:11:29,057 - INFO - Screenshot saved: ./screenshots/results_chrome_0.png
+2025-08-07 06:11:29,059 - INFO - Searching for app with aliases: ['chrome', 'google chrome']
+2025-08-07 06:11:29,069 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:29,461 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:30,784 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:30,788 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:31,152 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:32,528 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:11:32,583 - INFO - Pressing Enter to launch first search result
+2025-08-07 06:12:46,040 - INFO - Starting launch sequence for: spotify
+2025-08-07 06:12:46,040 - INFO - Attempt 1/3
+2025-08-07 06:12:46,392 - INFO - Screenshot saved: ./screenshots/initial_spotify_0.png
+2025-08-07 06:12:46,394 - INFO - Searching for app with aliases: ['spotify', 'music']
+2025-08-07 06:12:46,404 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:46,601 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:47,505 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:47,508 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:47,721 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:48,795 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:48,838 - INFO - spotify not found on screen, opening search...
+2025-08-07 06:12:50,151 - INFO - Opened system search for Windows
+2025-08-07 06:12:52,341 - INFO - Screenshot saved: ./screenshots/search_spotify_0.png
+2025-08-07 06:12:53,594 - INFO - Typed: spotify
+2025-08-07 06:12:55,869 - INFO - Screenshot saved: ./screenshots/results_spotify_0.png
+2025-08-07 06:12:55,870 - INFO - Searching for app with aliases: ['spotify', 'music']
+2025-08-07 06:12:55,882 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:56,270 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:57,497 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:57,500 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:57,894 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:58,996 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 06:12:59,058 - INFO - Pressing Enter to launch first search result
+2025-08-07 06:13:12,775 - INFO - Temporary files cleaned up
+2025-08-07 08:37:17,261 - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-08-07 08:37:17,261 - INFO - Launcher initialized for Windows
+2025-08-07 08:37:44,667 - INFO - Starting launch sequence for: illustrator
+2025-08-07 08:37:44,668 - INFO - Attempt 1/3
+2025-08-07 08:37:45,017 - INFO - Screenshot saved: ./screenshots/initial_illustrator_0.png
+2025-08-07 08:37:45,018 - INFO - Searching for app with aliases: ['illustrator', 'adobe illustrator']
+2025-08-07 08:37:45,028 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:45,216 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:46,394 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:46,395 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:46,583 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:47,511 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:47,568 - INFO - illustrator not found on screen, opening search...
+2025-08-07 08:37:48,880 - INFO - Opened system search for Windows
+2025-08-07 08:37:50,902 - INFO - Screenshot saved: ./screenshots/search_illustrator_0.png
+2025-08-07 08:37:52,419 - INFO - Typed: illustrator
+2025-08-07 08:37:54,641 - INFO - Screenshot saved: ./screenshots/results_illustrator_0.png
+2025-08-07 08:37:54,643 - INFO - Searching for app with aliases: ['illustrator', 'adobe illustrator']
+2025-08-07 08:37:54,659 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:55,025 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:56,270 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:56,273 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:56,651 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:57,927 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:37:57,978 - INFO - Pressing Enter to launch first search result
+2025-08-07 08:38:35,677 - INFO - Starting launch sequence for: open photoshop
+2025-08-07 08:38:35,678 - INFO - Attempt 1/3
+2025-08-07 08:38:36,033 - INFO - Screenshot saved: ./screenshots/initial_open photoshop_0.png
+2025-08-07 08:38:36,034 - INFO - Searching for app with aliases: ['open photoshop']
+2025-08-07 08:38:36,048 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:38:36,267 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:38:37,293 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:38:37,335 - INFO - open photoshop not found on screen, opening search...
+2025-08-07 08:38:38,659 - INFO - Opened system search for Windows
+2025-08-07 08:38:40,632 - INFO - Screenshot saved: ./screenshots/search_open photoshop_0.png
+2025-08-07 08:38:42,340 - INFO - Typed: open photoshop
+2025-08-07 08:38:44,565 - INFO - Screenshot saved: ./screenshots/results_open photoshop_0.png
+2025-08-07 08:38:44,566 - INFO - Searching for app with aliases: ['open photoshop']
+2025-08-07 08:38:44,575 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:38:44,931 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:38:46,070 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:38:46,113 - INFO - Pressing Enter to launch first search result
+2025-08-07 08:39:25,877 - INFO - Starting launch sequence for: outlook
+2025-08-07 08:39:25,877 - INFO - Attempt 1/3
+2025-08-07 08:39:26,248 - INFO - Screenshot saved: ./screenshots/initial_outlook_0.png
+2025-08-07 08:39:26,250 - INFO - Searching for app with aliases: ['outlook', 'microsoft outlook', 'mail']
+2025-08-07 08:39:26,259 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:26,449 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:27,371 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:27,373 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:27,579 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:28,684 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:28,686 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:28,871 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:29,870 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:29,919 - INFO - outlook not found on screen, opening search...
+2025-08-07 08:39:31,225 - INFO - Opened system search for Windows
+2025-08-07 08:39:33,270 - INFO - Screenshot saved: ./screenshots/search_outlook_0.png
+2025-08-07 08:39:34,527 - INFO - Typed: outlook
+2025-08-07 08:39:36,618 - INFO - Screenshot saved: ./screenshots/results_outlook_0.png
+2025-08-07 08:39:36,619 - INFO - Searching for app with aliases: ['outlook', 'microsoft outlook', 'mail']
+2025-08-07 08:39:36,630 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:36,978 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:38,043 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:38,045 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:38,403 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:39,801 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:39,803 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:40,237 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:41,532 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:39:41,580 - INFO - Pressing Enter to launch first search result
+2025-08-07 08:44:46,028 - INFO - Starting launch sequence for: photos
+2025-08-07 08:44:46,029 - INFO - Attempt 1/3
+2025-08-07 08:44:46,477 - INFO - Screenshot saved: ./screenshots/initial_photos_0.png
+2025-08-07 08:44:46,478 - INFO - Searching for app with aliases: ['gallery', 'photos', 'pictures']
+2025-08-07 08:44:46,491 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:46,698 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:47,779 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:47,781 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:47,979 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:49,029 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:49,031 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:49,226 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:50,291 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:50,336 - INFO - photos not found on screen, opening search...
+2025-08-07 08:44:51,656 - INFO - Opened system search for Windows
+2025-08-07 08:44:53,965 - INFO - Screenshot saved: ./screenshots/search_photos_0.png
+2025-08-07 08:44:55,168 - INFO - Typed: photos
+2025-08-07 08:44:57,359 - INFO - Screenshot saved: ./screenshots/results_photos_0.png
+2025-08-07 08:44:57,360 - INFO - Searching for app with aliases: ['gallery', 'photos', 'pictures']
+2025-08-07 08:44:57,370 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:57,753 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:59,148 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:59,150 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:44:59,531 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:45:00,714 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:45:00,716 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:45:01,093 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:45:02,332 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 08:45:02,377 - INFO - Pressing Enter to launch first search result
+2025-08-07 08:53:08,475 - INFO - Temporary files cleaned up
+2025-08-07 09:22:39,950 - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-08-07 09:22:39,952 - INFO - Launcher initialized for Windows
+2025-08-07 09:22:51,150 - INFO - Screenshot saved: ./screenshots/test_close_detection.png
+2025-08-07 09:22:51,315 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:51,378 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:51,714 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:51,716 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:51,793 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:52,138 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:52,140 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:52,210 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:52,546 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:52,548 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:52,634 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:52,967 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:52,969 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:53,044 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:53,402 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:53,404 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:53,484 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:53,818 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:53,819 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:53,893 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:22:54,240 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:23:08,741 - INFO - Clicked at (1409, 75)
+2025-08-07 09:23:52,115 - INFO - Starting launch sequence for: chrome
+2025-08-07 09:23:52,115 - INFO - Attempt 1/3
+2025-08-07 09:23:53,687 - INFO - Screenshot saved: ./screenshots/initial_chrome_0.png
+2025-08-07 09:23:53,688 - INFO - Searching for app with aliases: ['google chrome', 'chrome']
+2025-08-07 09:23:53,698 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:23:53,893 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:23:54,955 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:23:54,957 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:23:55,145 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:23:56,065 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:23:56,111 - INFO - chrome not found on screen, opening search...
+2025-08-07 09:23:57,430 - INFO - Opened system search for Windows
+2025-08-07 09:23:59,697 - INFO - Screenshot saved: ./screenshots/search_chrome_0.png
+2025-08-07 09:24:00,879 - INFO - Typed: chrome
+2025-08-07 09:24:03,018 - INFO - Screenshot saved: ./screenshots/results_chrome_0.png
+2025-08-07 09:24:03,019 - INFO - Searching for app with aliases: ['google chrome', 'chrome']
+2025-08-07 09:24:03,029 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:03,411 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:04,646 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:04,648 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:05,031 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:06,517 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:06,562 - INFO - Pressing Enter to launch first search result
+2025-08-07 09:24:08,905 - INFO - Auto-close scheduled for chrome in 3 seconds...
+2025-08-07 09:24:11,919 - INFO - Attempting to auto-close chrome...
+2025-08-07 09:24:12,337 - INFO - Screenshot saved: ./screenshots/close_button_detection.png
+2025-08-07 09:24:12,338 - INFO - Searching for close button...
+2025-08-07 09:24:12,419 - INFO - Found 6 buttons using shape detection
+2025-08-07 09:24:12,480 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:12,552 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:13,060 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:13,062 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:13,131 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:13,497 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:13,498 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:13,569 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:13,919 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:13,921 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:13,993 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:14,355 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:14,357 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:14,440 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:14,802 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:14,804 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:14,885 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:15,246 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:15,248 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:15,316 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:15,694 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:24:15,696 - INFO - Found 0 buttons using OCR detection
+2025-08-07 09:24:15,696 - INFO - Found 6 unique close button candidates
+2025-08-07 09:24:15,696 - INFO - Attempting to click close button #1 at (1790, 118) with confidence 70.0 (method: edge_detection)
+2025-08-07 09:24:16,537 - INFO - Clicked at (1790, 118)
+2025-08-07 09:24:17,975 - INFO - Screenshot saved: ./screenshots/verify_close.png
+2025-08-07 09:24:18,059 - INFO - Trying double-click on the same button...
+2025-08-07 09:24:18,883 - INFO - Clicked at (1790, 118)
+2025-08-07 09:25:03,418 - INFO - Starting launch sequence for: notepad
+2025-08-07 09:25:03,419 - INFO - Attempt 1/3
+2025-08-07 09:25:03,706 - INFO - Screenshot saved: ./screenshots/initial_notepad_0.png
+2025-08-07 09:25:03,708 - INFO - Searching for app with aliases: ['textedit', 'notepad', 'text editor', 'wordpad']
+2025-08-07 09:25:03,718 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:03,914 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:04,917 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:04,919 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:05,090 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:06,122 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:06,125 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:06,300 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:07,346 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:07,350 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:07,564 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:08,626 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:08,663 - INFO - notepad not found on screen, opening search...
+2025-08-07 09:25:09,982 - INFO - Opened system search for Windows
+2025-08-07 09:25:11,609 - INFO - Screenshot saved: ./screenshots/search_notepad_0.png
+2025-08-07 09:25:12,852 - INFO - Typed: notepad
+2025-08-07 09:25:14,899 - INFO - Screenshot saved: ./screenshots/results_notepad_0.png
+2025-08-07 09:25:14,900 - INFO - Searching for app with aliases: ['textedit', 'notepad', 'text editor', 'wordpad']
+2025-08-07 09:25:14,908 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:15,230 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:16,435 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:16,438 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:16,754 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:18,010 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:18,012 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:18,356 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:19,579 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:19,581 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:19,899 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:21,167 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:21,208 - INFO - Pressing Enter to launch first search result
+2025-08-07 09:25:23,551 - INFO - Auto-close scheduled for notepad in 3 seconds...
+2025-08-07 09:25:26,556 - INFO - Attempting to auto-close notepad...
+2025-08-07 09:25:27,147 - INFO - Screenshot saved: ./screenshots/close_button_detection.png
+2025-08-07 09:25:27,148 - INFO - Searching for close button...
+2025-08-07 09:25:27,235 - INFO - Found 5 buttons using shape detection
+2025-08-07 09:25:27,297 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:27,367 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:27,740 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:27,742 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:27,816 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:28,186 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:28,188 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:28,262 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:28,655 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:28,657 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:28,727 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:29,087 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:29,089 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:29,162 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:29,553 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:29,554 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:29,625 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:30,003 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:30,005 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:30,075 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:30,463 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:25:30,465 - INFO - Found 0 buttons using OCR detection
+2025-08-07 09:25:30,465 - INFO - Found 5 unique close button candidates
+2025-08-07 09:25:30,465 - INFO - Attempting to click close button #1 at (1797, 66) with confidence 70.0 (method: edge_detection)
+2025-08-07 09:25:31,294 - INFO - Clicked at (1797, 66)
+2025-08-07 09:25:32,594 - INFO - Screenshot saved: ./screenshots/verify_close.png
+2025-08-07 09:25:32,670 - INFO - Trying double-click on the same button...
+2025-08-07 09:25:33,480 - INFO - Clicked at (1797, 66)
+2025-08-07 09:26:20,095 - INFO - Starting launch sequence for: settings
+2025-08-07 09:26:20,095 - INFO - Attempt 1/3
+2025-08-07 09:26:20,466 - INFO - Screenshot saved: ./screenshots/initial_settings_0.png
+2025-08-07 09:26:20,467 - INFO - Searching for app with aliases: ['control panel', 'settings', 'preferences', 'system preferences']
+2025-08-07 09:26:20,476 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:20,654 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:21,711 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:21,713 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:21,895 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:23,066 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:23,068 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:23,251 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:24,307 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:24,309 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:24,479 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:25,562 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:25,598 - INFO - settings not found on screen, opening search...
+2025-08-07 09:26:26,925 - INFO - Opened system search for Windows
+2025-08-07 09:26:28,725 - INFO - Screenshot saved: ./screenshots/search_settings_0.png
+2025-08-07 09:26:30,055 - INFO - Typed: settings
+2025-08-07 09:26:32,146 - INFO - Screenshot saved: ./screenshots/results_settings_0.png
+2025-08-07 09:26:32,147 - INFO - Searching for app with aliases: ['control panel', 'settings', 'preferences', 'system preferences']
+2025-08-07 09:26:32,158 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:32,724 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:34,096 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:34,098 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:34,485 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:35,807 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:35,809 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:36,122 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:37,415 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:37,418 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:37,735 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:39,008 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:39,052 - INFO - Pressing Enter to launch first search result
+2025-08-07 09:26:41,445 - INFO - Auto-close scheduled for settings in 3 seconds...
+2025-08-07 09:26:44,460 - INFO - Attempting to auto-close settings...
+2025-08-07 09:26:45,101 - INFO - Screenshot saved: ./screenshots/close_button_detection.png
+2025-08-07 09:26:45,102 - INFO - Searching for close button...
+2025-08-07 09:26:45,195 - INFO - Found 1 buttons using shape detection
+2025-08-07 09:26:45,256 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:45,321 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:45,680 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:45,681 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:45,747 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:46,119 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:46,121 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:46,200 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:46,652 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:46,654 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:46,728 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:47,095 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:47,097 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:47,163 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:47,519 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:47,521 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:47,587 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:47,954 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:47,956 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:48,021 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:48,404 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 09:26:48,406 - INFO - Found 0 buttons using OCR detection
+2025-08-07 09:26:48,406 - INFO - Found 1 unique close button candidates
+2025-08-07 09:26:48,407 - INFO - Attempting to click close button #1 at (1891, 19) with confidence 65.6 (method: template_x_pattern)
+2025-08-07 09:26:49,233 - INFO - Clicked at (1891, 19)
+2025-08-07 09:26:50,564 - INFO - Screenshot saved: ./screenshots/verify_close.png
+2025-08-07 09:26:50,657 - INFO - Trying double-click on the same button...
+2025-08-07 09:26:51,475 - INFO - Clicked at (1891, 19)
+2025-08-07 09:28:09,683 - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-08-07 09:28:09,684 - INFO - Launcher initialized for Windows
+2025-08-07 13:48:44,947 - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-08-07 13:48:45,031 - INFO - Launcher initialized for Windows
+2025-08-07 13:50:54,426 - INFO - Starting launch sequence for: settings
+2025-08-07 13:50:54,426 - INFO - Attempt 1/3
+2025-08-07 13:50:55,687 - INFO - Screenshot saved: ./screenshots/initial_settings_0.png
+2025-08-07 13:50:55,688 - INFO - Searching for app with aliases: ['preferences', 'settings', 'system preferences', 'control panel']
+2025-08-07 13:50:55,701 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:50:55,900 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:50:57,117 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:50:57,119 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:50:57,374 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:50:58,568 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:50:58,571 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:50:58,754 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:50:59,968 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:50:59,970 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:00,196 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:01,231 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:01,299 - INFO - settings not found on screen, opening search...
+2025-08-07 13:51:02,623 - INFO - Opened system search for Windows
+2025-08-07 13:51:04,828 - INFO - Screenshot saved: ./screenshots/search_settings_0.png
+2025-08-07 13:51:06,150 - INFO - Typed: settings
+2025-08-07 13:51:08,706 - INFO - Screenshot saved: ./screenshots/results_settings_0.png
+2025-08-07 13:51:08,708 - INFO - Searching for app with aliases: ['preferences', 'settings', 'system preferences', 'control panel']
+2025-08-07 13:51:08,723 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:09,163 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:10,649 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:10,653 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:11,115 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:12,457 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:12,461 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:12,884 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:14,382 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:14,384 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:14,810 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:16,342 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:16,407 - INFO - Pressing Enter to launch first search result
+2025-08-07 13:51:18,746 - INFO - Auto-close scheduled for settings in 3 seconds...
+2025-08-07 13:51:21,761 - INFO - Attempting to auto-close settings...
+2025-08-07 13:51:22,656 - INFO - Screenshot saved: ./screenshots/close_button_detection.png
+2025-08-07 13:51:22,657 - INFO - Searching for close button...
+2025-08-07 13:51:22,825 - INFO - Found 1 buttons using shape detection
+2025-08-07 13:51:23,407 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:23,506 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:23,978 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:23,981 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:24,088 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:24,551 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:24,553 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:24,631 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:25,077 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:25,079 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:25,189 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:25,646 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:25,649 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:25,797 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:26,235 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:26,237 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:26,376 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:26,968 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:26,973 - ERROR - OCR failed at enhancement level 0: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:27,110 - ERROR - OCR failed at enhancement level 1: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:27,604 - ERROR - OCR failed at enhancement level 2: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-08-07 13:51:27,607 - INFO - Found 0 buttons using OCR detection
+2025-08-07 13:51:27,607 - INFO - Found 1 unique close button candidates
+2025-08-07 13:51:27,608 - INFO - Attempting to click close button #1 at (1891, 19) with confidence 65.6 (method: template_x_pattern)
+2025-08-07 13:51:28,421 - INFO - Clicked at (1891, 19)
+2025-08-07 13:51:30,000 - INFO - Screenshot saved: ./screenshots/verify_close.png
+2025-08-07 13:51:30,129 - INFO - Trying double-click on the same button...
+2025-08-07 13:52:50,487 - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-08-07 13:52:50,488 - INFO - Launcher initialized for Windows
+2025-08-08 10:04:09,290 - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-08-08 10:04:09,290 - INFO - Launcher initialized for Windows
+2025-08-08 10:06:17,256 - INFO - Temporary files cleaned up
