@@ -1,0 +1,268 @@
+{
+    "screenshot_dir": "./screenshots/",
+    "template_dir": "./templates/",
+    "temp_dir": "./temp/",
+    "ocr_confidence_threshold": 40,
+    "template_match_threshold": 0.75,
+    "automation_delay": 0.3,
+    "max_search_time": 10,
+    "auto_close_delay": 3,
+    "enable_auto_close": true,
+    "close_button_search_area": 0.3,
+    "close_button_size_range": [
+        10,
+        50
+    ],
+    "app_aliases": {
+        "settings": [
+            "settings",
+            "preferences",
+            "system preferences",
+            "control panel"
+        ],
+        "calculator": [
+            "calculator",
+            "calc"
+        ],
+        "notepad": [
+            "notepad",
+            "text editor",
+            "textedit",
+            "wordpad"
+        ],
+        "paint": [
+            "paint",
+            "mspaint",
+            "drawing"
+        ],
+        "snipping": [
+            "snipping tool",
+            "snip",
+            "screenshot tool"
+        ],
+        "taskmanager": [
+            "task manager",
+            "taskmgr",
+            "process manager"
+        ],
+        "explorer": [
+            "file explorer",
+            "explorer",
+            "files",
+            "my computer"
+        ],
+        "cmd": [
+            "command prompt",
+            "cmd",
+            "terminal",
+            "powershell"
+        ],
+        "chrome": [
+            "chrome",
+            "google chrome"
+        ],
+        "firefox": [
+            "firefox",
+            "mozilla firefox"
+        ],
+        "edge": [
+            "edge",
+            "microsoft edge"
+        ],
+        "safari": [
+            "safari"
+        ],
+        "opera": [
+            "opera"
+        ],
+        "vlc": [
+            "vlc",
+            "vlc media player"
+        ],
+        "spotify": [
+            "spotify",
+            "music"
+        ],
+        "photos": [
+            "photos",
+            "gallery",
+            "pictures"
+        ],
+        "movies": [
+            "movies",
+            "films",
+            "video player"
+        ],
+        "word": [
+            "word",
+            "microsoft word",
+            "ms word"
+        ],
+        "excel": [
+            "excel",
+            "microsoft excel",
+            "ms excel"
+        ],
+        "powerpoint": [
+            "powerpoint",
+            "microsoft powerpoint",
+            "ms powerpoint"
+        ],
+        "outlook": [
+            "outlook",
+            "microsoft outlook",
+            "mail"
+        ],
+        "onenote": [
+            "onenote",
+            "microsoft onenote",
+            "notes"
+        ],
+        "vscode": [
+            "visual studio code",
+            "vscode",
+            "vs code",
+            "code"
+        ],
+        "notepad++": [
+            "notepad++",
+            "notepad plus",
+            "npp"
+        ],
+        "git": [
+            "git",
+            "git bash"
+        ],
+        "docker": [
+            "docker",
+            "docker desktop"
+        ],
+        "teams": [
+            "teams",
+            "microsoft teams"
+        ],
+        "zoom": [
+            "zoom",
+            "zoom meeting"
+        ],
+        "skype": [
+            "skype"
+        ],
+        "discord": [
+            "discord"
+        ],
+        "slack": [
+            "slack"
+        ],
+        "steam": [
+            "steam",
+            "steam client"
+        ],
+        "epic": [
+            "epic games",
+            "epic games launcher"
+        ],
+        "origin": [
+            "origin",
+            "ea origin"
+        ],
+        "7zip": [
+            "7zip",
+            "7-zip",
+            "winrar",
+            "zip"
+        ],
+        "ccleaner": [
+            "ccleaner",
+            "cleaner"
+        ],
+        "antivirus": [
+            "antivirus",
+            "windows defender",
+            "defender"
+        ],
+        "photoshop": [
+            "photoshop",
+            "adobe photoshop"
+        ],
+        "illustrator": [
+            "illustrator",
+            "adobe illustrator"
+        ],
+        "premiere": [
+            "premiere",
+            "adobe premiere"
+        ],
+        "acrobat": [
+            "acrobat",
+            "adobe acrobat",
+            "pdf reader"
+        ]
+    },
+    "system_shortcuts": {
+        "Windows": "win",
+        "Darwin": [
+            "cmd",
+            "space"
+        ],
+        "Linux": [
+            "alt",
+            "f2"
+        ]
+    },
+    "app_process_names": {
+        "calculator": [
+            "calc.exe",
+            "Calculator.exe",
+            "calculator"
+        ],
+        "notepad": [
+            "notepad.exe",
+            "Notepad.exe"
+        ],
+        "chrome": [
+            "chrome.exe",
+            "Google Chrome"
+        ],
+        "firefox": [
+            "firefox.exe",
+            "Firefox"
+        ],
+        "edge": [
+            "msedge.exe",
+            "Microsoft Edge"
+        ],
+        "vscode": [
+            "Code.exe",
+            "code"
+        ],
+        "spotify": [
+            "Spotify.exe",
+            "spotify"
+        ],
+        "vlc": [
+            "vlc.exe",
+            "VLC media player"
+        ],
+        "paint": [
+            "mspaint.exe",
+            "Paint"
+        ],
+        "cmd": [
+            "cmd.exe",
+            "conhost.exe"
+        ],
+        "settings": [
+            "SystemSettings.exe",
+            "Settings"
+        ],
+        "taskmanager": [
+            "Taskmgr.exe",
+            "Task Manager"
+        ],
+        "explorer": [
+            "explorer.exe",
+            "File Explorer"
+        ]
+    }
+}
