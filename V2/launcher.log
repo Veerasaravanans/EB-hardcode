@@ -1,0 +1,92 @@
+2025-08-08 11:54:04,828 - WARNING - Did not find app in search results. Pressing ENTER to launch first item.
+2025-08-08 11:54:53,637 - WARNING - Did not find app in search results. Pressing ENTER to launch first item.
+2025-08-08 11:57:02,652 - WARNING - Did not find app in search results. Pressing ENTER to launch first item.
+2025-08-08 11:57:57,862 - INFO - Launched postman at (164,360)
+2025-08-08 12:00:01,806 - WARNING - Did not find app in search results. Pressing ENTER to launch first item.
+2025-08-08 12:42:35,194 - INFO - Starting launch sequence for: postman
+2025-08-08 12:42:35,195 - INFO - Attempt 1 of 3
+2025-08-08 12:42:35,910 - INFO - Screenshot saved: ./screenshots/desktop_postman_0.png
+2025-08-08 12:42:40,948 - INFO - postman icon not found on desktop; opening system search...
+2025-08-08 12:42:42,252 - INFO - Opened system search using shortcut for Windows
+2025-08-08 12:42:44,961 - INFO - Screenshot saved: ./screenshots/search_results_postman_0.png
+2025-08-08 12:42:49,089 - INFO - Found postman in search results at (164,362), clicking...
+2025-08-09 19:48:45,366 - INFO - Starting launch sequence for: recycle bin
+2025-08-09 19:48:45,390 - INFO - Attempt 1 of 3
+2025-08-09 19:48:46,105 - INFO - Screenshot saved: ./screenshots/desktop_recycle bin_0.png
+2025-08-09 19:48:51,559 - INFO - recycle bin icon not found on desktop; opening system search...
+2025-08-09 19:48:52,865 - INFO - Opened system search using shortcut for Windows
+2025-08-09 19:48:55,982 - INFO - Screenshot saved: ./screenshots/search_results_recycle bin_0.png
+2025-08-09 19:49:00,431 - INFO - No match in search results, pressing Enter to launch top item
+2025-08-09 20:03:07,747 - INFO - Starting launch sequence for: notepad
+2025-08-09 20:03:07,747 - INFO - Attempt 1 of 3
+2025-08-09 20:03:08,721 - INFO - Screenshot saved: ./screenshots/desktop_notepad_0.png
+2025-08-09 20:03:13,010 - INFO - notepad icon not found on desktop; opening system search...
+2025-08-09 20:03:14,312 - INFO - Opened system search using shortcut for Windows
+2025-08-09 20:03:18,429 - INFO - Screenshot saved: ./screenshots/search_results_notepad_0.png
+2025-08-09 20:03:22,886 - INFO - Found notepad in search results at (166,361), clicking...
+2025-08-09 20:06:07,215 - INFO - Starting launch sequence for: open notepad
+2025-08-09 20:06:07,215 - INFO - Attempt 1 of 3
+2025-08-09 20:06:07,976 - INFO - Screenshot saved: ./screenshots/desktop_open notepad_0.png
+2025-08-09 20:06:10,191 - INFO - open notepad icon not found on desktop; opening system search...
+2025-08-09 20:06:11,493 - INFO - Opened system search using shortcut for Windows
+2025-08-09 20:06:15,367 - INFO - Screenshot saved: ./screenshots/search_results_open notepad_0.png
+2025-08-09 20:06:18,397 - INFO - Found open notepad in search results at (166,363), clicking...
+2025-08-09 20:07:03,858 - INFO - Starting launch sequence for: notepad
+2025-08-09 20:07:03,861 - INFO - Attempt 1 of 3
+2025-08-09 20:07:04,606 - INFO - Screenshot saved: ./screenshots/desktop_notepad_0.png
+2025-08-09 20:07:07,744 - INFO - notepad icon not found on desktop; opening system search...
+2025-08-09 20:07:09,047 - INFO - Opened system search using shortcut for Windows
+2025-08-09 20:07:12,709 - INFO - Screenshot saved: ./screenshots/search_results_notepad_0.png
+2025-08-09 20:07:15,751 - INFO - Found notepad in search results at (765,453), clicking...
+2025-08-09 20:10:17,920 - INFO - Starting launch sequence for: open notepad
+2025-08-09 20:10:17,920 - INFO - Attempt 1 of 3
+2025-08-09 20:10:18,736 - INFO - Screenshot saved: ./screenshots/desktop_open notepad_0.png
+2025-08-09 20:10:23,021 - INFO - open notepad icon not found on desktop; opening system search...
+2025-08-09 20:10:24,324 - INFO - Opened system search using shortcut for Windows
+2025-08-09 20:10:28,285 - INFO - Screenshot saved: ./screenshots/search_results_open notepad_0.png
+2025-08-09 20:10:31,769 - INFO - Found open notepad in search results at (166,363), clicking...
+2025-08-09 21:08:49,436 - INFO - Starting launch sequence for: open notepad
+2025-08-09 21:08:49,503 - INFO - Attempt 1 of 3
+2025-08-09 21:08:50,474 - INFO - Screenshot saved: ./screenshots/desktop_open notepad_0.png
+2025-08-09 21:08:55,542 - INFO - open notepad icon not found on desktop; opening system search...
+2025-08-09 21:08:56,889 - INFO - Opened system search using shortcut for Windows
+2025-08-09 21:09:00,129 - INFO - Screenshot saved: ./screenshots/search_results_open notepad_0.png
+2025-08-09 21:09:03,608 - INFO - Found open notepad in search results at (166,363), clicking...
+2025-08-09 22:13:41,285 - INFO - Launching: notepad
+2025-08-09 22:14:18,815 - INFO - notepad NOT found on desktop; opening system search.
+2025-08-09 22:14:29,633 - INFO - Found 'notepad' in search results at (166, 363).
+2025-08-09 22:19:01,847 - INFO - Launching: postman
+2025-08-09 22:19:17,045 - INFO - postman NOT found on desktop; opening system search.
+2025-08-09 22:19:30,668 - INFO - Found 'postman' in search results at (164, 360).
+2025-08-09 22:32:25,993 - INFO - Launching: chrome
+2025-08-09 22:32:36,565 - INFO - Found 'chrome' at (142, 592) on desktop.
+2025-08-09 22:32:49,577 - INFO - Launching: vs code
+2025-08-09 22:33:02,022 - INFO - vs code NOT found on desktop; opening system search.
+2025-08-09 22:33:25,637 - INFO - Launching: edge
+2025-08-09 22:33:49,684 - INFO - edge NOT found on desktop; opening system search.
+2025-08-09 22:34:01,626 - INFO - Found 'edge' in search results at (131, 480).
+2025-08-09 22:45:09,947 - INFO - Launching: visual studo code
+2025-08-09 22:45:21,601 - INFO - visual studo code NOT found on desktop; opening system search.
+2025-08-09 23:07:57,846 - INFO - Launching: compass
+2025-08-09 23:08:09,126 - INFO - compass NOT found on desktop; opening system search.
+2025-08-09 23:19:34,709 - INFO - Launching: notepad
+2025-08-09 23:19:47,124 - INFO - Found 'notepad' at (1253, 992) on desktop.
+2025-08-09 23:24:35,624 - INFO - Launching: google chrome
+2025-08-09 23:24:46,738 - INFO - google chrome NOT found on desktop; opening system search.
+2025-08-10 22:18:17,620 - INFO - Launching: vscode
+2025-08-10 22:18:35,202 - INFO - Found 'vscode' at (510, 741) on desktop.
+2025-08-10 22:19:38,684 - INFO - Launching: vscode
+2025-08-10 22:19:54,520 - INFO - Found 'vscode' at (139, 465) on desktop.
+2025-08-10 22:21:27,450 - INFO - Launching: cls
+2025-08-10 22:21:57,955 - INFO - Launching: vscode
+2025-08-10 22:22:09,582 - INFO - Found 'vscode' at (141, 466) on desktop.
+2025-08-10 22:22:24,339 - INFO - Launching: google chrome
+2025-08-10 22:22:30,914 - INFO - google chrome NOT found on desktop; opening system search.
+2025-08-10 22:22:47,272 - INFO - Launching: chrome
+2025-08-10 22:22:53,882 - INFO - Found 'chrome' at (142, 588) on desktop.
+2025-08-10 22:25:35,824 - INFO - Launching: vscode
+2025-08-10 22:25:49,910 - INFO - Found 'vscode' at (141, 466) on desktop.
+2025-08-11 09:06:29,864 - INFO - Launching: vscode
+2025-08-11 09:06:50,953 - INFO - Found 'vscode' at (141, 466) on desktop.
+2025-08-11 09:07:28,392 - INFO - Launching: vscode
+2025-08-11 09:08:19,837 - INFO - vscode NOT found on desktop; opening system search.
