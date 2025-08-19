@@ -18,6 +18,9 @@ DEFAULT_CONFIG = {
         # [Same as your code, abbreviated for brevity]
         "notepad": ["notepad", "text editor", "wordpad"],
         "chrome": ["chrome", "google chrome"],
+        "camera": ["Camera", "CAMERA", "camera", "Caméra"],
+        "coursera": ["Coursera", "COURSE", "coursera", "Course Ra"]  # Add any OCR-glitch version
+
         # ...
     },
     "system_shortcuts": {
