@@ -55,6 +55,7 @@ def enhanced_ocr_search(image_path, target_text, temp_dir=None, fuzzy_match=True
             )
 
             for i, text in enumerate(data['text']):
+                print(f"Detected: '{text}' (conf: {data['conf'][i]})")
                 conf = int(data['conf'][i])
                 if conf > config_threshold and text.strip():
                     if target_text.lower() in text.lower():

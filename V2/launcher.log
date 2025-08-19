@@ -90,3 +90,92 @@
 2025-08-11 09:06:50,953 - INFO - Found 'vscode' at (141, 466) on desktop.
 2025-08-11 09:07:28,392 - INFO - Launching: vscode
 2025-08-11 09:08:19,837 - INFO - vscode NOT found on desktop; opening system search.
+2025-08-18 10:55:57,603 - INFO - Launching: notepad
+2025-08-18 10:56:42,650 - INFO - notepad NOT found on desktop; opening system search.
+2025-08-18 10:56:57,121 - INFO - Found 'notepad' in search results at (1169, 415).
+2025-08-18 11:07:48,203 - INFO - OCR match: 'Apps' (score: 75) at (243,368)
+2025-08-18 11:19:27,112 - INFO - OCR match: 'Settings' (score: 100) at (644,2197)
+2025-08-18 11:35:09,843 - INFO - OCR match: 'Settings' (score: 100) at (644,476)
+2025-08-18 11:35:09,844 - INFO - Tapping device at (644, 476) [bias=0]
+2025-08-18 11:35:10,862 - INFO - Tapping device at (644, 396) [bias=80]
+2025-08-18 11:35:12,107 - INFO - Tapping device at (644, 356) [bias=120]
+2025-08-18 11:36:14,865 - INFO - OCR match: 'LinkedIn' (score: 100) at (406,2055)
+2025-08-18 11:36:14,866 - INFO - Tapping device at (406, 2055) [bias=0]
+2025-08-18 11:36:15,850 - INFO - Tapping device at (406, 1975) [bias=80]
+2025-08-18 11:36:16,846 - INFO - Tapping device at (406, 1935) [bias=120]
+2025-08-18 11:36:51,679 - INFO - OCR match: 'Maps' (score: 100) at (883,2059)
+2025-08-18 11:36:51,680 - INFO - Tapping device at (883, 2059) [bias=0]
+2025-08-18 11:36:52,591 - INFO - Tapping device at (883, 1979) [bias=80]
+2025-08-18 11:36:53,547 - INFO - Tapping device at (883, 1939) [bias=120]
+2025-08-18 11:48:23,456 - INFO - OCR match: 'Cricbuzz' (score: 100) at (167,2136)
+2025-08-18 11:48:23,476 - INFO - Tapping device at (167, 2136) [bias=0]
+2025-08-18 11:48:24,458 - INFO - Tapping device at (167, 2056) [bias=80]
+2025-08-18 11:48:25,414 - INFO - Tapping device at (167, 2016) [bias=120]
+2025-08-18 11:59:24,852 - INFO - OCR match: 'Cricbuzz' (score: 100) at (167,2136)
+2025-08-18 11:59:24,877 - INFO - Tapping device at (167, 2136) [bias=0]
+2025-08-18 11:59:25,794 - INFO - Tapping device at (167, 2056) [bias=80]
+2025-08-18 11:59:26,746 - INFO - Tapping device at (167, 2016) [bias=120]
+2025-08-18 12:00:14,316 - INFO - OCR match: 'Compass' (score: 100) at (405,1840)
+2025-08-18 12:00:14,319 - INFO - Tapping device at (405, 1840) [bias=0]
+2025-08-18 12:00:15,291 - INFO - Tapping device at (405, 1760) [bias=80]
+2025-08-18 12:00:16,259 - INFO - Tapping device at (405, 1720) [bias=120]
+2025-08-18 12:01:13,382 - INFO - OCR match: 'Cricbuzz' (score: 100) at (167,2136)
+2025-08-18 12:01:13,383 - INFO - Tapping device at (167, 2136) [bias=0]
+2025-08-18 12:01:14,328 - INFO - Tapping device at (167, 2056) [bias=80]
+2025-08-18 12:01:15,274 - INFO - Tapping device at (167, 2016) [bias=120]
+2025-08-18 13:39:09,605 - INFO - OCR match: 'Rapido' (score: 100) at (357,990)
+2025-08-18 13:39:09,621 - INFO - Tapping device at (357, 960) [bias=0]
+2025-08-18 13:39:10,038 - INFO - Tapping device at (357, 880) [bias=80]
+2025-08-18 13:39:10,576 - INFO - Tapping device at (357, 840) [bias=120]
+2025-08-18 13:48:28,497 - INFO - OCR match: 'Rapido' (score: 100) at (357,990)
+2025-08-18 13:48:28,499 - INFO - Tapping device at (357, 960) [bias=0]
+2025-08-18 13:48:28,911 - INFO - Tapping device at (357, 880) [bias=80]
+2025-08-18 13:48:29,343 - INFO - Tapping device at (357, 840) [bias=120]
+2025-08-18 14:03:00,306 - INFO - OCR match: 'Linkedin' (score: 100) at (371,1978)
+2025-08-18 14:03:00,308 - INFO - Tapping device at (371, 1918) [bias=0]
+2025-08-18 14:03:00,725 - INFO - Tapping device at (371, 1838) [bias=80]
+2025-08-18 14:03:01,177 - INFO - Tapping device at (371, 1798) [bias=120]
+2025-08-18 14:03:20,910 - INFO - OCR match: 'Linkedin' (score: 100) at (372,843)
+2025-08-18 14:03:20,911 - INFO - Tapping device at (372, 817) [bias=0]
+2025-08-18 14:03:21,300 - INFO - Tapping device at (372, 737) [bias=80]
+2025-08-18 14:03:21,700 - INFO - Tapping device at (372, 697) [bias=120]
+2025-08-18 14:06:26,068 - INFO - OCR match: 'Camera' (score: 100) at (367,1092)
+2025-08-18 14:06:26,069 - INFO - Tapping device at (367, 1059) [bias=0]
+2025-08-18 14:06:26,419 - INFO - Tapping device at (367, 979) [bias=80]
+2025-08-18 14:06:26,973 - INFO - Tapping device at (367, 939) [bias=120]
+2025-08-18 14:06:41,087 - INFO - OCR match: 'Camera' (score: 100) at (367,1720)
+2025-08-18 14:06:41,088 - INFO - Tapping device at (367, 1668) [bias=0]
+2025-08-18 14:06:41,425 - INFO - Tapping device at (367, 1588) [bias=80]
+2025-08-18 14:06:41,972 - INFO - Tapping device at (367, 1548) [bias=120]
+2025-08-19 10:32:38,139 - INFO - OCR match: 'Chrome' (score: 100) at (368,843)
+2025-08-19 10:32:38,154 - INFO - Tapping device at (368, 817) [bias=0]
+2025-08-19 10:32:38,553 - INFO - Tapping device at (368, 737) [bias=80]
+2025-08-19 10:32:38,923 - INFO - Tapping device at (368, 697) [bias=120]
+2025-08-19 10:34:57,900 - INFO - OCR match: 'Chrome' (score: 100) at (368,1175)
+2025-08-19 10:34:57,901 - INFO - Tapping device at (368, 1139) [bias=0]
+2025-08-19 10:34:58,315 - INFO - Tapping device at (368, 1059) [bias=80]
+2025-08-19 10:34:58,802 - INFO - Tapping device at (368, 1019) [bias=120]
+2025-08-19 10:36:03,769 - INFO - OCR match: 'Clock' (score: 100) at (343,1387)
+2025-08-19 10:36:03,770 - INFO - Tapping device at (343, 1345) [bias=0]
+2025-08-19 10:36:04,127 - INFO - Tapping device at (343, 1265) [bias=80]
+2025-08-19 10:36:04,506 - INFO - Tapping device at (343, 1225) [bias=120]
+2025-08-19 11:21:39,035 - INFO - OCR match: 'Contacts' (score: 100) at (644,1842)
+2025-08-19 11:21:39,098 - INFO - Tapping device at (644, 1842) [bias=0]
+2025-08-19 11:21:40,101 - INFO - Tapping device at (644, 1762) [bias=80]
+2025-08-19 11:21:41,013 - INFO - Tapping device at (644, 1722) [bias=120]
+2025-08-19 11:22:39,827 - INFO - OCR match: 'Settings' (score: 100) at (644,1339)
+2025-08-19 11:22:39,828 - INFO - Tapping device at (644, 1339) [bias=0]
+2025-08-19 11:22:40,743 - INFO - Tapping device at (644, 1259) [bias=80]
+2025-08-19 11:22:41,674 - INFO - Tapping device at (644, 1219) [bias=120]
+2025-08-19 11:23:29,425 - INFO - OCR match: 'Contacts' (score: 100) at (644,1842)
+2025-08-19 11:23:29,427 - INFO - Tapping device at (644, 1842) [bias=0]
+2025-08-19 11:23:30,334 - INFO - Tapping device at (644, 1762) [bias=80]
+2025-08-19 11:23:31,222 - INFO - Tapping device at (644, 1722) [bias=120]
+2025-08-19 11:25:43,701 - INFO - OCR match: 'Contacts' (score: 100) at (644,1842)
+2025-08-19 11:25:43,703 - INFO - Tapping device at (644, 1842) [bias=0]
+2025-08-19 11:25:44,644 - INFO - Tapping device at (644, 1762) [bias=80]
+2025-08-19 11:25:45,586 - INFO - Tapping device at (644, 1722) [bias=120]
+2025-08-19 11:54:21,472 - INFO - OCR match: 'Chrome' (score: 100) at (644,1360)
+2025-08-19 11:54:21,480 - INFO - Tapping device at (644, 1360) [bias=0]
+2025-08-19 11:54:22,752 - INFO - Tapping device at (644, 1280) [bias=80]
+2025-08-19 11:54:23,595 - INFO - Tapping device at (644, 1240) [bias=120]
